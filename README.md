@@ -20,6 +20,28 @@ StockFlow helps businesses manage their inventory efficiently through a centrali
 - **Role-Based Access Control:** Separate permissions for Admin, Manager, and Staff.
 - **User Management:** Admin can create, update, and delete user accounts.
 
+
+## Application Screenshots
+
+### 1. Dashboard
+![StockFlow Dashboard](screenshots/dashboard.png)
+
+### 2. Product Management
+![Products](screenshots/products.png)
+
+### 3. Sales Management
+![Sales](screenshots/sales.png)
+
+### 4. Purchase Management
+![Purchases](screenshots/purchases.png)
+
+### 5. Inventory Management
+![Inventory](screenshots/inventory.png)
+
+### 6. Reports and Analytics
+![Reports](screenshots/reports.png)
+
+
 ## Technology Stack
 
 | Layer | Technologies |
